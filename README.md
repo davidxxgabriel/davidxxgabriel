@@ -1,7 +1,7 @@
 ### Hey I'm David👋
 
 - 🔭 I currently work with front-end
-- 🌱 Studying Javascript
+- 🌱 Studying Javascript and Python
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=davidxxgabriel&show_icons=true&theme=transparent" />
