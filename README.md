@@ -1,7 +1,7 @@
 ### Hey I'm David👋
 
 - 🔭 I currently work with front-end
-- 🌱 Studying Javascript and Python
+- 🌱 Studying...
   
  <section style="display: flex; justify-content: center;"> 
    
